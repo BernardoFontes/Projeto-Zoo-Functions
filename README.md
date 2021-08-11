@@ -2,7 +2,7 @@
 
 ### Projeto desenvolvido no curso da Trybe, turma 9. Requisitos elaborados pela Trybe
 
-O arquivo data.js simula um banco de dados de um zoológico (arquivo veio pronto da Trybe) e no arquivo zoo.js, implementei a funções para manipular essa API e atender aos requisitos.
+O arquivo data.js simula um banco de dados de um zoológico (arquivo veio pronto da Trybe) e no arquivo zoo.js, implementei as funções para manipular essa API e atender aos requisitos.
 
 
 ### 1. IMPLEMENTE A FUNÇÃO animalsByIds
