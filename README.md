@@ -1,4 +1,4 @@
-# Projeto-Zoo-Functions
+# Projeto Zoo Functions
 
 ### Projeto desenvolvido no curso da Trybe, turma 9. Requisitos elaborados pela Trybe
 
